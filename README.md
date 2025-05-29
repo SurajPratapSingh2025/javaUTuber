@@ -1,1 +1,1 @@
-# javaUTuber
+# java learning & practice from UTuber
